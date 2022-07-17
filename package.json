@@ -1,0 +1,28 @@
+{
+    "name": "@exchange-connect/smarthub",
+    "version": "0.0.1",
+    "description": "A smart and unified of many exchanges' API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Exchange-Connect/SmartHub.git"
+    },
+    "keywords": [
+        "exchange",
+        "hub",
+        "api",
+        "smart",
+        "sdk",
+        "unified-api",
+        "unified"
+    ],
+    "author": "Mohammad Hosein Balkhani",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Exchange-Connect/SmartHub/issues"
+    },
+    "homepage": "https://github.com/Exchange-Connect/SmartHub#readme"
+}
